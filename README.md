@@ -1,4 +1,4 @@
-𝗟𝗲𝗻𝘀𝗸𝗮𝗿𝘁 𝗞𝗣𝗜 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁:
+𝗟𝗲𝗻𝘀𝗸𝗮𝗿𝘁 𝗞𝗣𝗜
 
 This project aims to create a comprehensive Key Performance Indicator (KPI) dashboard for Lenskart, a leading eyewear retailer. The primary goal is to facilitate data-driven decision-making by providing visual insights into various aspects of Lenskart’s operations, such as product performance, customer behavior, store efficiency, and transaction methods. The project leverages a combination of cloud technologies and business intelligence tools to achieve this.
 
